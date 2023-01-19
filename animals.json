@@ -1,30 +1,30 @@
 [
 {
-    animalId = 0,
-    animalName = "Lion",
-    totNumber = 9000,
-    avgAge = 15,
-    avgGrowth = 20
+    "animalId" = 0,
+    "animalName" = "Lion",
+    "totNumber" = 9000,
+    "avgAge" = 15,
+    "avgGrowth" = 20
 },
 {
-    animalId = 1,
-    animalName = "Dog",
-    totNumber = 30000,
-    avgAge = 10,
-    avgGrowth = 80
+    "animalId" = 1,
+    "animalName" = "Dog",
+    "totNumber" = 30000,
+    "avgAge" = 10,
+    "avgGrowth" = 80
 },
 {
-    animalId = 2,
-    animalName = "Zebra",
-    totNumber = 12000,
-    avgAge = 12,
-    avgGrowth = 75
+    "animalId" = 2,
+    "animalName" = "Zebra",
+    "totNumber" = 12000,
+    "avgAge" = 12,
+    "avgGrowth" = 75
 },
 {
-    animalId = 3,
-    animalName = "Elephant",
-    totNumber = 20000,
-    avgAge = 20,
-    avgGrowth = 100
+    "animalId" = 3,
+    "animalName" = "Elephant",
+    "totNumber" = 20000,
+    "avgAge" = 20,
+    "avgGrowth" = 100
 }
 ]
